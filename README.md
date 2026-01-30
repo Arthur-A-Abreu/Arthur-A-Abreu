@@ -10,7 +10,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="SQL" height="30" width="40" src="https://www.tripletech.com.br/imagens/informacoes/dba-sql-server/dba-sql-server-06.jpg">
+ <img align="center" alt="SQL" height="30" width="40" src="https://www.clipartmax.com/middle/m2H7K9G6b1G6G6m2_azure-sql-database-icon/">
 </div>
  
 <br>
