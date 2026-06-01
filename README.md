@@ -1,11 +1,11 @@
 ### Hi there 👋
 ### ABOUT ME 😁
-<h1>Sou desenvolvedor em formação com foco em Python e Django. Tenho experiência na criação de aplicações web, APIs RESTful, integração e testes com Postman, além de conhecimentos em Git, GitHub e deploy de projetos.
-
-Possuo conhecimentos em HTML, CSS, JavaScript, banco de dados e programação orientada a objetos. Atualmente estou aprofundando meus estudos em Django, autenticação de APIs e conceitos de AWS.
-
-Também tenho experiência com lógica de programação, resolução de problemas e já estudei C++ e C#. Estou sempre buscando novos desafios para evoluir tecnicamente e desenvolver soluções cada vez mais eficientes.</h1>
- <div>
+<h4>
+   Sou desenvolvedor em formação com foco em Python e Django. Tenho experiência na criação de aplicações web, APIs RESTful, integração e testes com Postman, além de conhecimentos em Git, GitHub e deploy de projetos.
+  Possuo conhecimentos em HTML, CSS, JavaScript, banco de dados e programação orientada a objetos. Atualmente estou aprofundando meus estudos em Django, autenticação de APIs e conceitos de AWS.
+  Também tenho experiência com lógica de programação, resolução de problemas e já estudei C++ e C#. Estou sempre buscando novos desafios para evoluir tecnicamente e desenvolver soluções cada vez mais eficientes.
+</h4>
+<div>
    <a href="https://github.com/Arthur-A-Abreu">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-A-Abreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-A-Abreu&layout=compact&langs_count=6&theme=tokyonight"/>
