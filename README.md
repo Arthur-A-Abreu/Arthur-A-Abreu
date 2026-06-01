@@ -1,31 +1,76 @@
-### Hi there 👋
-### ABOUT ME 😁
-<h4>
-   Sou desenvolvedor em formação com foco em Python e Django. Tenho experiência na criação de aplicações web, APIs RESTful, integração e testes com Postman, além de conhecimentos em Git, GitHub e deploy de projetos.
-  Possuo conhecimentos em HTML, CSS, JavaScript, banco de dados e programação orientada a objetos. Atualmente estou aprofundando meus estudos em Django, autenticação de APIs e conceitos de AWS.
-  Também tenho experiência com lógica de programação, resolução de problemas e já estudei C++ e C#. Estou sempre buscando novos desafios para evoluir tecnicamente e desenvolver soluções cada vez mais eficientes.
-</h4>
+# 👋 Olá, eu sou Arthur Abreu
+
+## 🚀 Desenvolvedor Backend em Formação
+
+Sou desenvolvedor com foco em Python e Django, apaixonado por tecnologia, desenvolvimento web e resolução de problemas.
+
+Atualmente estou aprimorando minhas habilidades em desenvolvimento de APIs RESTful, Programação Orientada a Objetos (OOP), autenticação de usuários, deploy de aplicações e serviços AWS.
+
+---
+
+## 👨‍💻 Tecnologias e Ferramentas
+
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>
+
+---
+
+## 📊 Estatísticas GitHub
+
 <div>
-   <a href="https://github.com/Arthur-A-Abreu">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-A-Abreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-A-Abreu&layout=compact&langs_count=6&theme=tokyonight"/>
+  <a href="https://github.com/Arthur-A-Abreu">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-A-Abreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-A-Abreu&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="SQL" height="30" width="30" src="https://www.clipartmax.com/png/small/243-2432711_azure-sql-database-icon.png">
+
+---
+
+## 📚 Atualmente Estudando
+
+- Django REST Framework
+- APIs RESTful
+- Programação Orientada a Objetos (OOP)
+- AWS
+- Deploy de Aplicações
+- Boas práticas de desenvolvimento
+- Arquitetura de Software
+
+---
+
+## 🎯 Objetivos
+
+- Construir projetos escaláveis com Django
+- Aprender Docker
+- Aprimorar conhecimentos em AWS
+- Contribuir para projetos Open Source
+- Conseguir minha primeira oportunidade profissional como Desenvolvedor Backend
+
+---
+
+## 📫 Contato
+
+<div>
+  <a href="https://www.instagram.com/arthur_a_abreu/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="mailto:arthuraudayadreu@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/arthur-auday-adreu/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
- 
-<br>
- 
-### To contact me:
- 
-<div> 
-  <a href="https://www.instagram.com/arthur_a_abreu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<!--  <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
-  <a href ="arthuraudayadreu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/arthur-auday-adreu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
+---
+
+⭐ Sempre buscando aprender novas tecnologias e desenvolver soluções que gerem impacto.
